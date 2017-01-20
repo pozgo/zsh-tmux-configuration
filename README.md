@@ -7,7 +7,7 @@ If you don't want to spend too much time configuring it and just want to start u
 
 ### Install ZSH and configure themes and plugins
 
-    sh -c "$(curl -fsSL https://gist.githubusercontent.com/pozgo/4bd5e1357cffa24833130da6b287cd1d/raw/9e9cfb815ccfda7e61a9f84fb7fa5c0fc7403c6a/zsh-install.sh)"
+    sh -c "$(curl -fsSL https://gist.githubusercontent.com/pozgo/4bd5e1357cffa24833130da6b287cd1d/raw/a0c28ff70326c03f6696efd452e688a46ac610b4/zsh-install.sh)"
 
 ### Install Tmux and configure themes and plugins
 
